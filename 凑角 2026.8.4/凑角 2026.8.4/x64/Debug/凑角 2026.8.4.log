@@ -1,0 +1,3 @@
+﻿  FileName.c
+E:\c语言学习\代码\凑角 2026.8.4\FileName.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  凑角 2026.8.4.vcxproj -> E:\c语言学习\代码\凑角 2026.8.4\x64\Debug\凑角 2026.8.4.exe

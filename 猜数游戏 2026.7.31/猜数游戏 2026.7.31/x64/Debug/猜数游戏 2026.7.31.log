@@ -1,0 +1,4 @@
+﻿  FileName.c
+E:\c语言学习\代码\猜数游戏 2026.7.31\FileName.c(6,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\c语言学习\代码\猜数游戏 2026.7.31\FileName.c(11,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  猜数游戏 2026.7.31.vcxproj -> E:\c语言学习\代码\猜数游戏 2026.7.31\x64\Debug\猜数游戏 2026.7.31.exe

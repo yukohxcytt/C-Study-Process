@@ -1,0 +1,3 @@
+﻿  FileName.c
+E:\c语言学习\代码\给定整数的整数集 2026.8.6\FileName.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  给定整数的整数集 2026.8.6.vcxproj -> E:\c语言学习\代码\给定整数的整数集 2026.8.6\x64\Debug\给定整数的整数集 2026.8.6.exe

@@ -1,0 +1,3 @@
+﻿  FileName.c
+E:\c语言学习\代码\薪水计算 2026.7.29\FileName.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  薪水计算 2026.7.29.vcxproj -> E:\c语言学习\代码\薪水计算 2026.7.29\x64\Debug\薪水计算 2026.7.29.exe

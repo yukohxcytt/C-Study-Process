@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="找零器.vcxproj" Id="d6259f42-a505-49b6-a1d5-16d59ef08237" />
+</Solution>

@@ -1,0 +1,3 @@
+﻿  FileName.c
+E:\c语言学习\代码\求平均数并输出，数组 2026.8.19\FileName.c(10,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  求平均数并输出，数组 2026.8.19.vcxproj -> E:\c语言学习\代码\求平均数并输出，数组 2026.8.19\x64\Debug\求平均数并输出，数组 2026.8.19.exe

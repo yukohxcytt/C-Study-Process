@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="printf的数值计算.vcxproj" Id="2c85383b-8a59-482f-acc7-82b18cfa340e" />
+</Solution>
