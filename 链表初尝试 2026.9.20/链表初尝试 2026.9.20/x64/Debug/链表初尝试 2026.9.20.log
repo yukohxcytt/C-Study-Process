@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\My'y\Desktop\代码\链表初尝试 2026.9.20\链表初尝试 2026.9.20\FileName.c(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  链表初尝试 2026.9.20.vcxproj -> C:\Users\My'y\Desktop\代码\链表初尝试 2026.9.20\x64\Debug\链表初尝试 2026.9.20.exe

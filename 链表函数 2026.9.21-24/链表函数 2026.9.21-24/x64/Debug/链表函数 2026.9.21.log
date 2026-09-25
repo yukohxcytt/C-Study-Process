@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\My'y\Desktop\代码\链表函数 2026.9.21,22\链表函数 2026.9.21\FileName.c(26,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\My'y\Desktop\代码\链表函数 2026.9.21,22\链表函数 2026.9.21\FileName.c(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  链表函数 2026.9.21.vcxproj -> C:\Users\My'y\Desktop\代码\链表函数 2026.9.21,22\x64\Debug\链表函数 2026.9.21.exe

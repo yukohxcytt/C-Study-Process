@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\My'y\Desktop\代码\嵌套结构 2026.9.13\嵌套结构 2026.9.13\FileName.c(14,9): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\My'y\Desktop\代码\嵌套结构 2026.9.13\嵌套结构 2026.9.13\FileName.c(14,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\My'y\Desktop\代码\嵌套结构 2026.9.13\嵌套结构 2026.9.13\FileName.c(15,9): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\My'y\Desktop\代码\嵌套结构 2026.9.13\嵌套结构 2026.9.13\FileName.c(15,15): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\My'y\Desktop\代码\嵌套结构 2026.9.13\嵌套结构 2026.9.13\FileName.c(15,20): warning C4305: “初始化”: 从“double”到“float”截断
+  嵌套结构 2026.9.13.vcxproj -> C:\Users\My'y\Desktop\代码\嵌套结构 2026.9.13\x64\Debug\嵌套结构 2026.9.13.exe
