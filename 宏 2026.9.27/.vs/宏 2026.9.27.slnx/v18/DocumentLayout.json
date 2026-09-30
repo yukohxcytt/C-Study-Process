@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\u8BED\u8A00\u5B66\u4E60\\\u4EE3\u7801\\\u5B8F 2026.9.27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099BE634-6B53-4D91-8B53-9E73BE097CD6}|\u5B8F 2026.9.27.vcxproj|E:\\c\u8BED\u8A00\u5B66\u4E60\\\u4EE3\u7801\\\u5B8F 2026.9.27\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{099BE634-6B53-4D91-8B53-9E73BE097CD6}|\u5B8F 2026.9.27.vcxproj|solutionrelative:FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "E:\\c\u8BED\u8A00\u5B66\u4E60\\\u4EE3\u7801\\\u5B8F 2026.9.27\\FileName.c",
+              "RelativeDocumentMoniker": "FileName.c",
+              "ToolTip": "E:\\c\u8BED\u8A00\u5B66\u4E60\\\u4EE3\u7801\\\u5B8F 2026.9.27\\FileName.c",
+              "RelativeToolTip": "FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-27T08:14:01.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿  FileNme.c
+  格式化输入.c
+E:\c语言学习\代码\文件操作 2026.9.30\FileNme.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(13,3): warning C4098: “write”:“void”函数返回值
+E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(18,23): warning C4474: fprintf: 格式字符串中传递的参数太多
+      E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(18,23):
+      占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+  
+E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(30,3): warning C4098: “readtext”:“void”函数返回值
+E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(32,18): warning C4473: “fscanf”: 没有为格式字符串传递足够的参数
+      E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(32,18):
+      占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+      E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(32,18):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(33,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\c语言学习\代码\文件操作 2026.9.30\格式化输入.c(32,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...

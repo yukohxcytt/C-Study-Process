@@ -1,0 +1,5 @@
+﻿  FileName.c
+E:\c语言学习\代码\格式化输入 2026.10.1\FileName.c(13,3): warning C4098: “write”:“void”函数返回值
+E:\c语言学习\代码\格式化输入 2026.10.1\FileName.c(29,3): warning C4098: “readtext”:“void”函数返回值
+E:\c语言学习\代码\格式化输入 2026.10.1\FileName.c(32,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  格式化输入 2026.10.1.vcxproj -> E:\c语言学习\代码\格式化输入 2026.10.1\x64\Debug\格式化输入 2026.10.1.exe
